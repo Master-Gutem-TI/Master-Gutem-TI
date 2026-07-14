@@ -1,16 +1,73 @@
-## Hi there 👋
+# Olá, sou Gutemberg Nascimento 👋
 
-<!--
-**Master-Gutem-TI/Master-Gutem-TI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista de Dados | Ciência de Dados aplicada ao Mercado Financeiro**
 
-Here are some ideas to get you started:
+🎓 MBA em Ciência de Dados para o Mercado Financeiro — XP Educação  
+🎓 Graduação em Gestão da Tecnologia da Informação — UNIASSELVI  
+📍 Alagoinhas, Bahia | Disponível para trabalho remoto  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre mim
+
+Profissional em transição para dados com formação técnica sólida em Python, SQL, Power BI
+e Machine Learning, com foco em aplicações para o mercado financeiro. Tenho experiência
+em gestão de dados operacionais, elaboração de relatórios e trabalho com equipes
+multidisciplinares em ambiente público (FESF/Governo da Bahia).
+
+---
+
+## Tecnologias e ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## Projetos de portfólio
+
+### 📈 [Análise de Ações da B3](./analise-acoes-b3)
+> Python · Pandas · Matplotlib · yfinance
+
+Análise exploratória de ações listadas na B3 com cálculo de retorno acumulado,
+volatilidade, índice Sharpe e mapa de correlação entre ativos.
+
+**Destaques:**
+- Coleta automática de dados via API Yahoo Finance
+- Análise de risco x retorno com visualizações
+- Matriz de correlação entre ativos
+
+---
+
+### 🗃️ [Carteira de Investimentos com SQL](./carteira-investimentos-sql)
+> SQL · SQLite
+
+Modelagem e análise de uma carteira de investimentos usando SQL puro.
+Inclui controle de operações, cálculo de rentabilidade, alocação por setor
+e apuração de lucro realizado.
+
+**Destaques:**
+- Modelagem relacional (ativos, operações, cotações)
+- Consultas com JOINs, CTEs e funções de janela
+- Relatório de rentabilidade por ativo e por setor
+
+---
+
+## Formação
+
+| Curso | Instituição | Ano |
+|---|---|---|
+| MBA — Ciência de Dados para o Mercado Financeiro | XP Educação | 2024 |
+| Graduação — Gestão de TI | UNIASSELVI | 2023 |
+| Técnico — Logística | CETEP | 2020 |
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gutemberg-ti)
+[![E-mail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gutem17@hotmail.com)
+
