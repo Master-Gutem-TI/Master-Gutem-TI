@@ -56,6 +56,34 @@ e apuração de lucro realizado.
 
 ---
 
+### 🤖 [Previsão de Preço de Ações com ML](./previsao-acoes-ml)
+> Python · Scikit-learn · Pandas · yfinance
+
+Modelos de Machine Learning para previsão do preço de fechamento de ações da B3.
+Compara Regressão Linear e Random Forest usando features de análise técnica
+(médias móveis, RSI, MACD, volatilidade).
+
+**Destaques:**
+- Engenharia de features com 11 indicadores técnicos (RSI, MACD, médias móveis)
+- Comparação de modelos com métricas MAE, RMSE e R²
+- Análise de importância das variáveis preditoras
+
+---
+
+### 📊 [Dashboard Automatizado de Carteira](./dashboard-carteira)
+> Python · Pandas · Matplotlib · HTML/CSS
+
+Script que gera automaticamente um relatório HTML interativo com cotações
+em tempo real, gráficos de alocação, rentabilidade por ativo e evolução
+histórica da carteira.
+
+**Destaques:**
+- Relatório HTML completo gerado 100% via Python
+- Cotações atualizadas via API Yahoo Finance
+- Gráficos de pizza, barras e série histórica embutidos no HTML
+
+---
+
 ## Formação
 
 | Curso | Instituição | Ano |
