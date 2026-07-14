@@ -29,7 +29,7 @@ multidisciplinares em ambiente público (FESF/Governo da Bahia).
 
 ## Projetos de portfólio
 
-### 📈 [Análise de Ações da B3](./analise-acoes-b3)
+### 📈 [Análise de Ações da B3](https://github.com/Master-Gutem-TI/Analise-acoes-b3)
 > Python · Pandas · Matplotlib · yfinance
 
 Análise exploratória de ações listadas na B3 com cálculo de retorno acumulado,
@@ -42,7 +42,7 @@ volatilidade, índice Sharpe e mapa de correlação entre ativos.
 
 ---
 
-### 🗃️ [Carteira de Investimentos com SQL](./carteira-investimentos-sql)
+### 🗃️ [Carteira de Investimentos com SQL](https://github.com/Master-Gutem-TI/carteira-investimentos-sql-)
 > SQL · SQLite
 
 Modelagem e análise de uma carteira de investimentos usando SQL puro.
@@ -56,7 +56,7 @@ e apuração de lucro realizado.
 
 ---
 
-### 🤖 [Previsão de Preço de Ações com ML](./previsao-acoes-ml)
+### 🤖 [Previsão de Preço de Ações com ML](https://github.com/Master-Gutem-TI/previsao-acoes-ml-)
 > Python · Scikit-learn · Pandas · yfinance
 
 Modelos de Machine Learning para previsão do preço de fechamento de ações da B3.
@@ -70,7 +70,7 @@ Compara Regressão Linear e Random Forest usando features de análise técnica
 
 ---
 
-### 📊 [Dashboard Automatizado de Carteira](./dashboard-carteira)
+### 📊 [Dashboard Automatizado de Carteira](https://github.com/Master-Gutem-TI/dashboard-carteira)
 > Python · Pandas · Matplotlib · HTML/CSS
 
 Script que gera automaticamente um relatório HTML interativo com cotações
@@ -81,8 +81,6 @@ histórica da carteira.
 - Relatório HTML completo gerado 100% via Python
 - Cotações atualizadas via API Yahoo Finance
 - Gráficos de pizza, barras e série histórica embutidos no HTML
-
----
 
 ## Formação
 
