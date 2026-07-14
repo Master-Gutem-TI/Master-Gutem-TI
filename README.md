@@ -4,7 +4,7 @@
 
 🎓 MBA em Ciência de Dados para o Mercado Financeiro — XP Educação  
 🎓 Graduação em Gestão da Tecnologia da Informação — UNIASSELVI  
-📍 Alagoinhas, Bahia | Disponível para trabalho remoto  
+📍 Alagoinhas, Bahia | Disponível para trabalho remoto
 
 ---
 
@@ -81,7 +81,9 @@ histórica da carteira.
 - Relatório HTML completo gerado 100% via Python
 - Cotações atualizadas via API Yahoo Finance
 - Gráficos de pizza, barras e série histórica embutidos no HTML
-  
+
+---
+
 ## Formação
 
 | Curso | Instituição | Ano |
@@ -96,4 +98,3 @@ histórica da carteira.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gutemberg-ti)
 [![E-mail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gutem17@hotmail.com)
-
