@@ -81,7 +81,7 @@ histórica da carteira.
 - Relatório HTML completo gerado 100% via Python
 - Cotações atualizadas via API Yahoo Finance
 - Gráficos de pizza, barras e série histórica embutidos no HTML
-
+  
 ## Formação
 
 | Curso | Instituição | Ano |
